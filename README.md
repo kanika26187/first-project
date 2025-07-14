@@ -1,1 +1,2 @@
-![{D544F6A5-2A26-4E4B-A311-005649D68CF9}](https://github.com/user-attachments/assets/8bb196a4-b8f4-49b0-b64d-e682beb80039)
+<img width="1071" height="443" alt="Screenshot 2025-07-14 115122" src="https://github.com/user-attachments/assets/972f530b-41f2-486c-87b3-a643a669b17e" />
+
