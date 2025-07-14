@@ -5,7 +5,7 @@
 
  <img width="1071" height="443" alt="Screenshot 2025-07-14 115122" src="https://github.com/user-attachments/assets/972f530b-41f2-486c-87b3-a643a669b17e" />
 
-# - Dataset Sources for Machine Learning and Deep Learning
+- #  Dataset Sources for Machine Learning and Deep Learning
  free dataset sources for Machine Learning and Deep Learning applications
 
 1.Google Dataset Search – A search engine for datasets: https://datasetsearch.research.google.com/
@@ -36,8 +36,10 @@
 # 3. Input / Output
 
 <img width="727" height="910" alt="Screenshot 2025-07-14 120523" src="https://github.com/user-attachments/assets/e36504b3-8f00-4716-a708-42b064c768af" />
+
 # 4. Live link
 Link: www.facialexpressionrecognition.com
+
 # 5. Screenshot of the Interface
 <img width="896" height="314" alt="Screenshot 2025-07-14 120828" src="https://github.com/user-attachments/assets/597d4f66-a2a7-4f1c-8714-d262fb880f03" />
 
